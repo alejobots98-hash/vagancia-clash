@@ -46,7 +46,7 @@ function embedPagos() {
 `━━━━━━━━━━━━━━━━━━
 **MÉTODOS DISPONIBLES**
 
-🏦 **Naranja X**
+🏦 **Mercado Pago**
 ┗ 👤 Amanda Ines Rojas  
 ┗ 🔗 Alias: \`029.amanda.docena.mp\`
 
