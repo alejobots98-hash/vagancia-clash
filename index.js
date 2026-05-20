@@ -47,8 +47,8 @@ function embedPagos() {
 **MÉTODOS DISPONIBLES**
 
 🏦 **Naranja X**
-┗ 👤 Alejo German Tolosa  
-┗ 🔗 Alias: \`vg.apos\`
+┗ 👤 Amanda Ines Rojas  
+┗ 🔗 Alias: \`029.amanda.docena.mp\`
 
 🌐 **AstroPay**
 ┗ 🔗 https://onetouch.astropay.com/payment?external_reference_id=8lIV0oqyplqnZulPqVirFZbTf2rkhLsR
