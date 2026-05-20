@@ -48,7 +48,7 @@ function embedPagos() {
 
 🏦 **Mercado Pago**
 ┗ 👤 Amanda Ines Rojas  
-┗ 🔗 Alias: \`029.amanda.docena.mp\`
+┗ 🔗 Alias: \`vg.mp8\`
 
 🌐 **AstroPay**
 ┗ 🔗 https://onetouch.astropay.com/payment?external_reference_id=8lIV0oqyplqnZulPqVirFZbTf2rkhLsR
